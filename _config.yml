@@ -1,6 +1,6 @@
 # Site settings
 title: "Vlastimil Holer"
-description: "Personal homepage."
+description: "Personal resume."
 
 # Build settings
 markdown: kramdown
