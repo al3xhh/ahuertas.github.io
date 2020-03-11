@@ -1,6 +1,6 @@
 # Site settings
-title: "Vlastimil Holer"
-description: "Personal resume."
+title: "Alejandro Huertas"
+description: "Personal resume"
 
 # Build settings
 markdown: kramdown
@@ -9,40 +9,40 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Vlastimil Holer"
-resume_title:                   "Linux Operations Engineer"
-resume_contact_email:           "vlastimil.holer@gmail.com"
+resume_avatar:        "true"
+resume_name:          "Alejandro Huertas Herrero"
+resume_title:         "Cloud Engineer"
+resume_contact_email: "al3xhh1995@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work: "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        false
-resume_section_skills:          false
-resume_section_recognition:     false
-resume_section_links:           false
-resume_section_associations:    false
+resume_section_experience:   true
+resume_section_education:    true
+resume_section_projects:     false
+resume_section_skills:       false
+resume_section_recognition:  false
+resume_section_links:        false
+resume_section_associations: false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/vholer"
-  resume_twitter_url:           "https://twitter.com/vholer"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/vlastimilholer"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://www.holer.me"
+  resume_github_url:      "https://github.com/al3xhh"
+  # resume_twitter_url:   ""
+  # resume_dribbble_url:  ""
+  # resume_facebook_url:  ""
+  resume_linkedin_url:    "http://www.linkedin.com/in/alejandro-huertas-herrero-883484145"
+  # resume_instagram_url: ""
+  # resume_website_url:   ""
 
 # Design settings
-resume_theme:                   default
+resume_theme: default
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
